@@ -1,1 +1,0 @@
-g++ .\func.cpp| .\a.exe
