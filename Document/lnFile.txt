@@ -1,0 +1,2 @@
+/workspaces/codeforce/src/libtime.so
+sudo rm /usr/lib/libtime.so

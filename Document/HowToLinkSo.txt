@@ -1,0 +1,7 @@
+https://blog.csdn.net/weixin_43229348/article/details/120956382
+https://www.cnblogs.com/oxspirt/p/7344371.html
+
+linux查看导出函数：
+nm -D xxx.so
+windows查看导出函数：
+dumpbin -exports xxx.dll
